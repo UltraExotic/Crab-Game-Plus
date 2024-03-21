@@ -1,0 +1,1 @@
+This is for Crab Game it is a mod built off CCGM. It add new commands and better user experience Crab Game side. This is a beta and not done yet. If you have any question join dsc.gg/emcg or  https://discord.gg/RrcJ5WPMhw
