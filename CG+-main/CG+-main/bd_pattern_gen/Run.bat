@@ -1,0 +1,1 @@
+python bd_pattern_gen.py

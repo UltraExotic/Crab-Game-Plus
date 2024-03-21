@@ -1,0 +1,9 @@
+You can edit these animations with the run.bat Use the cords to place it where you want the blocks. 
+Its in millseconds. 
+The start the start time will be in millseonds. Example use 5000 I would do 4000-5000 to give everyone a bit.
+The Iterate is how fast they fall from where they start so if you put it in 200 millseconds it will fall at a speed you can not dodge.
+The Speed is 0.2-3.0 you can chose between those.
+When making a block drop you have to add these , expaple use 1,2,3,4 that will tell CCGM to have it fell at those cords. You can not add any spaces CCGM will give you an error.
+When you are done making a animation put the name of the animation that you want it to be called. Then you need to put the min player for it to play in that range same with max. You have to put the max to for it to work. Remeber CG+ is built off CCGM.
+Example use. Put your animation name here 1min 60max Now CCGM will know to run the that player range.
+ 

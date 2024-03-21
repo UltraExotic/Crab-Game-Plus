@@ -1,0 +1,11 @@
+panel
+fakeredis
+discord.py
+requests
+pyperclip
+sandboxie
+psutil
+pywin32
+quart
+regex
+pywebview
